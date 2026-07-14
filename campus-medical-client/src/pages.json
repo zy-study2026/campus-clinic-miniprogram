@@ -1,0 +1,274 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/bind-phone/index",
+      "style": {
+        "navigationBarTitleText": "绑定手机号"
+      }
+    },
+    {
+      "path": "pages/forget-password/index",
+      "style": {
+        "navigationBarTitleText": "忘记密码"
+      }
+    },
+    {
+      "path": "pages/change-phone/index",
+      "style": {
+        "navigationBarTitleText": "修改手机号"
+      }
+    },
+    {
+      "path": "pages/change-password/index",
+      "style": {
+        "navigationBarTitleText": "修改密码"
+      }
+    },
+    {
+      "path": "pages/student/home",
+      "style": {
+        "navigationBarTitleText": "学生首页"
+      }
+    },
+    {
+      "path": "pages/student/appoint",
+      "style": {
+        "navigationBarTitleText": "预约挂号"
+      }
+    },
+    {
+      "path": "pages/student/my-appoint",
+      "style": {
+        "navigationBarTitleText": "我的预约"
+      }
+    },
+    {
+      "path": "pages/student/my-record",
+      "style": {
+        "navigationBarTitleText": "我的病历"
+      }
+    },
+    {
+      "path": "pages/student/record-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "病历详情"
+      }
+    },
+    {
+      "path": "pages/student/medicine-shop",
+      "style": {
+        "navigationBarTitleText": "药品商城"
+      }
+    },
+    {
+      "path": "pages/student/medicine-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "药品详情"
+      }
+    },
+    {
+      "path": "pages/student/order-confirm",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "确认订单"
+      }
+    },
+    {
+      "path": "pages/student/payment",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "支付"
+      }
+    },
+    {
+      "path": "pages/student/my-orders",
+      "style": {
+        "navigationBarTitleText": "我的订单"
+      }
+    },
+    {
+      "path": "pages/student/order-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/student/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    },
+    {
+      "path": "pages/student/detail-info",
+      "style": {
+        "navigationBarTitleText": "详细信息"
+      }
+    },
+    {
+      "path": "pages/student/announcement-list",
+      "style": {
+        "navigationBarTitleText": "公告列表"
+      }
+    },
+    {
+      "path": "pages/doctor/home",
+      "style": {
+        "navigationBarTitleText": "医生首页"
+      }
+    },
+    {
+      "path": "pages/doctor/appointments",
+      "style": {
+        "navigationBarTitleText": "预约审核"
+      }
+    },
+    {
+      "path": "pages/doctor/medical-record-form",
+      "style": {
+        "navigationBarTitleText": "填写病历"
+      }
+    },
+    {
+      "path": "pages/doctor/medical-records",
+      "style": {
+        "navigationBarTitleText": "我的病历"
+      }
+    },
+    {
+      "path": "pages/doctor/medical-record-detail",
+      "style": {
+        "navigationBarTitleText": "病历详情"
+      }
+    },
+    {
+      "path": "pages/doctor/orders",
+      "style": {
+        "navigationBarTitleText": "药品订单"
+      }
+    },
+    {
+      "path": "pages/doctor/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    },
+    {
+      "path": "pages/doctor/detail-info",
+      "style": {
+        "navigationBarTitleText": "详细信息"
+      }
+    },
+    {
+      "path": "pages/admin/home",
+      "style": {
+        "navigationBarTitleText": "管理员首页"
+      }
+    },
+    {
+      "path": "pages/admin/student-manage",
+      "style": {
+        "navigationBarTitleText": "学生管理"
+      }
+    },
+    {
+      "path": "pages/admin/doctor-manage",
+      "style": {
+        "navigationBarTitleText": "医生管理"
+      }
+    },
+    {
+      "path": "pages/admin/appoint-manage",
+      "style": {
+        "navigationBarTitleText": "预约管理"
+      }
+    },
+    {
+      "path": "pages/admin/record-manage",
+      "style": {
+        "navigationBarTitleText": "病历管理"
+      }
+    },
+    {
+      "path": "pages/admin/medicine-manage",
+      "style": {
+        "navigationBarTitleText": "药品申请管理"
+      }
+    },
+    {
+      "path": "pages/admin/department-manage",
+      "style": {
+        "navigationBarTitleText": "科室管理"
+      }
+    },
+    {
+      "path": "pages/admin/duty-manage",
+      "style": {
+        "navigationBarTitleText": "排班管理"
+      }
+    },
+    {
+      "path": "pages/admin/drug-manage",
+      "style": {
+        "navigationBarTitleText": "药品管理"
+      }
+    },
+    {
+      "path": "pages/admin/order-manage",
+      "style": {
+        "navigationBarTitleText": "订单管理"
+      }
+    },
+    {
+      "path": "pages/admin/announcement-manage",
+      "style": {
+        "navigationBarTitleText": "公告管理"
+      }
+    },
+    {
+      "path": "pages/admin/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "校园医务室",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/student/home",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/student/my-appoint",
+        "text": "我的预约"
+      },
+      {
+        "pagePath": "pages/student/my-record",
+        "text": "我的病历"
+      },
+      {
+        "pagePath": "pages/student/profile",
+        "text": "个人中心"
+      }
+    ]
+  }
+}
